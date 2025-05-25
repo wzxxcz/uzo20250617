@@ -38,6 +38,22 @@
     }
   ],
   "vod": [
+     {
+      "name": "「盘」 欧歌",
+      "version": 3,
+      "webSite": "https://woog.nxog.eu.org",
+      "order": "B",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/ouge.js",
+      "type": 101
+    },
+        {
+      "name": "「盘」 欧歌备",
+      "version": 3,
+      "webSite": "https://woog.nxog.eu.org",
+      "order": "B",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/uzVideo-extensions/main/vod/js/ouge.js",
+      "type": 101
+    },
     {
       "name": "「解」 虾米",
       "version": 3,
@@ -142,14 +158,7 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
       "type": 101
     },
-    {
-      "name": "「盘」 欧歌",
-      "version": 3,
-      "webSite": "https://woog.nxog.eu.org",
-      "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/ouge.js",
-      "type": 101
-    },
+  
     {
       "name": "「盘」 清影",
       "version": 1,
